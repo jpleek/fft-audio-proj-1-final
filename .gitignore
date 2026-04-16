@@ -1,0 +1,22 @@
+# macOS
+.DS_Store
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# VS Code
+.vscode/
+
+# Large project data
+audio/
+analysis/
+output/encoded/
+output/figures/
+output/figures_wav_only/
+output/extreme_demo/
+output/logs/
+docs/output/
+
+
